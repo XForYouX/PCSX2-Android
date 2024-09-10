@@ -14,3 +14,7 @@
 
 # Official Source PCSX2
 * [Source](https://github.com/PCSX2/pcsx2)
+
+# Special Thanks
+* PCSX2 Dev Team ( Official Source )
+* MYPS2 ( Official Source PCSX2 Android )
