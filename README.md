@@ -1,6 +1,6 @@
 # PCSX2-Android ( Fork MYPS2 )
 * On Progress Development
-* Support SD Card
+* Support ExternalStorage ( SD Card )
 
 # Note :
 * Not Support Play Game ( Because Still Progress Development )
