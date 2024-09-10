@@ -10,6 +10,7 @@
 # Include Support :
 * shaders
 * bios
+* resources
 
 # Official Source PCSX2
 * [Source](https://github.com/PCSX2/pcsx2)
