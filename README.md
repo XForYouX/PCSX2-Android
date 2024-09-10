@@ -6,3 +6,7 @@
 * Not Support Play Game ( Because Still Progress Development )
 * Not Yet Option Settings ( Because Still Progress Development )
 * And More
+
+# Include Support :
+* shaders
+* bios
